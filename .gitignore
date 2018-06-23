@@ -1,0 +1,16 @@
+obj/Debug/netcoreapp2.1/todoapp.dll
+bin/Debug/netcoreapp2.1/todoapp.dll
+bin/Debug/netcoreapp2.1/todoapp.pdb
+bin/Debug/netcoreapp2.1/todoapp.deps.json
+bin/Debug/netcoreapp2.1/todoapp.runtimeconfig.json
+bin/Debug/netcoreapp2.1/todoapp.runtimeconfig.dev.json
+obj/Debug/netcoreapp2.1/todoapp.pdb
+obj/Debug/netcoreapp2.1/todoapp.AssemblyInfo.cs
+obj/Debug/netcoreapp2.1/todoapp.AssemblyInfoInputs.cache
+obj/Debug/netcoreapp2.1/todoapp.RazorAssemblyInfo.cache
+obj/Debug/netcoreapp2.1/todoapp.RazorAssemblyInfo.cs
+obj/Debug/netcoreapp2.1/todoapp.RazorTargetAssemblyInfo.cache
+obj/Debug/netcoreapp2.1/todoapp.assets.cache
+obj/Debug/netcoreapp2.1/todoapp.csproj.CoreCompileInputs.cache
+obj/Debug/netcoreapp2.1/todoapp.csproj.FileListAbsolute.txt
+obj/Debug/netcoreapp2.1/todoapp.csprojAssemblyReference.cache
